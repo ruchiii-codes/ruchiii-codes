@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=480&lines=Empowering+ideas+with+AI%2FML+intelligence+🤖; Building+real-world+GenAI+apps+with+LangChain+🧩; From+Python+scripts+to+AI+solutions+🚀; Exploring+LLMs%2C+NLP%2C+and+Reasoning+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&width=480&lines=Empowering+ideas+with+AI%2FML+intelligence+🤖;Building+real-world+GenAI+apps+with+LangChain+🧩;From+Python+scripts+to+AI+solutions+🚀;Exploring+LLMs%2C+NLP%2C+and+Reasoning+⚡" />
 </p>
-
 
 ---
 
