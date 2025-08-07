@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Building+cool+AI-powered+tools+🧠;Loving+React+%26+Frontend+Development+💻;Exploring+LangChain+and+Prompt+Engineering+🚀;Open+to+internships+%26+collaborations+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=480&lines=Empowering+ideas+with+AI%2FML+intelligence+🤖; Building+real-world+GenAI+apps+with+LangChain+🧩; From+Python+scripts+to+AI+solutions+🚀; Exploring+LLMs%2C+NLP%2C+and+Reasoning+⚡" />
 </p>
+
 
 ---
 
@@ -15,7 +16,6 @@
 - 🛠 Currently working on AI tools with LangChain, Flask & OpenAI  
 - 🧠 Passionate about merging design & intelligence through code  
 - 📈 Learning ML, RAG systems, and prompt design  
-- 📫 Reach me: [ruchikavispute@gmail.com](mailto:ruchikavispute@gmail.com)
 
 ---
 
@@ -66,11 +66,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruchiii-codes&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=ruchiii-codes&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiii-codes&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ruchikavispute"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:ruchikavispute@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/ruchika-vispute-72495a249"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:ruchivispute05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
